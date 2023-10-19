@@ -21,3 +21,12 @@ This resulting model can be used by Mobiticket and bus operators to anticipate c
 As we have implemented six different models to predict the number of seats that Mobiticket can expect to sell for each ride. 
 * Linear Regression, Regularized linear regression (Ridge and Lasso), Decision Tree, Random Forest Regressor and Xgboost Regressor. Xgboost regression model with hyperparameter tuning performed the best among them.
 Our Model will help Mobiticket and Bus operators to anticipate the number of tickets they can expect to sell for each ride.
+
+The train accuracy of the the model which used in the project
+* Xgboost	:- 0.791427
+* Random Forest	:- 0.700116
+* Decision Tree	:- 0.568494
+* Elastic Net Regression :- 0.417797
+* Ridge Regression:- 0.416569
+* Lasso Regression :- 0.417937
+* Linear Regression	:- 0.419032
