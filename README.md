@@ -15,3 +15,9 @@ To preform linear regression, we have to fulfil the assumption of it. so I used 
 Out of them XGboost with tuned hyperparameters gave the best result.
 
 This resulting model can be used by Mobiticket and bus operators to anticipate customer demand for certain rides, to manage resources and vehicles more efficiently, to offer promotions and sell other services more effectively, such as microinsurance, or even improve customer service by being able to send alerts and other useful information to customers.
+
+## Conclusion
+
+As we have implemented six different models to predict the number of seats that Mobiticket can expect to sell for each ride. 
+* Linear Regression, Regularized linear regression (Ridge and Lasso), Decision Tree, Random Forest Regressor and Xgboost Regressor. Xgboost regression model with hyperparameter tuning performed the best among them.
+Our Model will help Mobiticket and Bus operators to anticipate the number of tickets they can expect to sell for each ride.
