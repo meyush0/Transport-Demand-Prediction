@@ -1,7 +1,7 @@
 # Transport-Demand-Prediction
 
 
-
+![demand prediction](https://github.com/meyush0/Transport-Demand-Prediction/assets/112842527/b508872d-b956-4d68-9d29-a86af25b4a11)
 
 ## Project Objective
 Nairobi-Transport-Demand-Prediction dataset provided to us is in unformatted manner, uneven data, and duplicate data and also some data columns in it is irrelevant. For doing the analysis on the data, the data needs to be in correct format and well organized formed.
